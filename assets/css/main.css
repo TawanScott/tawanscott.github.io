@@ -158,7 +158,7 @@ input, select, textarea {
 	}
 
 	h1 {
-		font-size: 3.25em;
+		font-size: 2em;
 		letter-spacing: -0.025em;
 		font-weight: 300;
 	}
@@ -1983,7 +1983,7 @@ input, select, textarea {
 	.wrapper {
 		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-		padding: 8em 0 8em 0;
+		padding: 4em 0 4em 0;
 		text-align: center;
 	}
 
@@ -2004,7 +2004,6 @@ input, select, textarea {
 
 		.wrapper.style4 {
 			background-color: #303030;
-			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
 
@@ -2099,7 +2098,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
+		padding: 4em 0 0em 0;
 		text-align: left;
 	}
 
